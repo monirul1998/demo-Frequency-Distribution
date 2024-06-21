@@ -1,3 +1,3 @@
 
 # demo-Frequency-Distribution
-Dice game Frequeency & distribution Python in jupiter nootbook
+Random Number Dice game Frequeency & distribution Python in jupiter nootbook
